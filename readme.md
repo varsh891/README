@@ -9,10 +9,13 @@ This paragraph has some 'variable' intital code.
 
 '''html
      <p> A paragraph example</p>
+
+ '''
+ 
 '''python
-         def foo():
-             if not bar:
-             return True
+     def foo():
+       if not bar:
+     return True
 '''
 
 This is a link to [Google](http://www.google.com)
