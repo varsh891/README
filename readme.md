@@ -10,8 +10,9 @@ def foo():
 
 This is a link to [Google](http://www.google.com)
 
-This is an image  
-<img src="C:\Users\Varshini\OneDrive\Documents\logo.gif">
+This is an image  <img src="C:\Users\Varshini\OneDrive\Documents\logo.gif">
+
+
 
 This is list
 
