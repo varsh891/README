@@ -10,13 +10,13 @@ def foo():
 
 This is a link to [Google](http://www.google.com)
 
-This is an image ![alttext] (https://www.google.com/images/logo.gif "Logo Title Text 1")
+This is an image 
 
 This is list
 
-*Black
-*Blue
-*Pink
+* Black
+* Blue
+* Pink
 
 This is a numbered list
 
