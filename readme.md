@@ -2,6 +2,13 @@
 ## sub heading
 Just a sample repo for learning the basics of GitHub.
 
+
+[this is the description](http://www.github.com)
+
+This paragraph has some 'variable' intital code.
+
+'''html
+     <p> A paragraph example</p>
 '''python
          def foo():
              if not bar:
@@ -10,7 +17,9 @@ Just a sample repo for learning the basics of GitHub.
 
 This is a link to [Google](http://www.google.com)
 
-This is an image ![alt text](http://picsum.photos/200/200)
+This is image
+
+![alt text](http://picsum.photos/200/200)
 
 
 
