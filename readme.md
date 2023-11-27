@@ -1,4 +1,4 @@
-# Learning-Github
+# Learning-Github color:green
 ## sub heading
 Just a sample repo for learning the basics of GitHub.
 
