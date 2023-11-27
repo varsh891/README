@@ -13,7 +13,9 @@ This paragraph has some 'variable' intital code.
  '''
  
 '''javascript
-let num=Math.random();
+
+    let num=Math.random();
+
 '''
 
 This is a link to [Google](http://www.google.com)
