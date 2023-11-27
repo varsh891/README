@@ -12,10 +12,8 @@ This paragraph has some 'variable' intital code.
 
  '''
  
-'''python
-     def foo():
-       if not bar:
-     return True
+'''javascript
+let num=Math.random();
 '''
 
 This is a link to [Google](http://www.google.com)
