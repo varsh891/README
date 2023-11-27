@@ -17,7 +17,7 @@ This paragraph has some 'variable' intital code.
 
 This is a link to [Google](http://www.google.com)
 
-This is image
+This is an image
 
 ![alt text](http://picsum.photos/200/200)
 
