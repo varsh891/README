@@ -8,7 +8,7 @@ more text with two line breaks between.
 - second time
 - third time
     -indented
-        1. inner number
+          1.inner number
 [this is the description](http://www.github.com)  
 
 This paragraph has some 'variable' inline code.
