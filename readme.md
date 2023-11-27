@@ -10,7 +10,8 @@ def foo():
 
 This is a link to [Google](http://www.google.com)
 
-This is an image 
+This is an image  ![alttext] 
+(https://www.google.com/images/logo.gif "Logo Title Text 1")
 
 This is list
 
